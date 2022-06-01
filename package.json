@@ -1,0 +1,12 @@
+{
+  "name": "issue-contentlayer-computed-field-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate": "contentlayer build"
+  },
+  "devDependencies": {
+    "contentlayer": "^0.2.5",
+    "typescript": "^4.7.2"
+  }
+}
